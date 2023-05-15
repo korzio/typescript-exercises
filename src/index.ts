@@ -6,6 +6,8 @@
 // comment previous exercises as you progress.
 
 // Now, ready to do you some TypeScript?!
+// ======== Exercise 0: Configure ==========
+// configure environment package.json, install needed utilities
 
 // ======== Exercise 1: Basic types ========
 import exercise1 from './Exercise_1_Basic_Types/exercise1';
